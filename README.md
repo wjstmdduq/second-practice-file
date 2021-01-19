@@ -1,4 +1,1 @@
-
-<p>second-practice-file</p>
-
-<a href="second-1.html"><h2><li>내가 좋아하는 게임은?</li><h2></a>
+<a href="second-1.html">내가 좋아하는 게임은?</a>
