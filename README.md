@@ -6,7 +6,7 @@
 
 <body>
   
-<p># second-practice-file</p>
+<p>second-practice-file</p>
 
 <a href="second-1.html"><h2><li>내가 좋아하는 게임은?</li><h2></a>
 
